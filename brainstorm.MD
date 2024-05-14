@@ -1,2 +1,8 @@
 ### Game level and items
-+ a
++ level 1: fundamentals:
+
++ level 2: basic fields:
+
++ level 3: advanced fields:
+
++ level 4: imaginary fields:
